@@ -1,0 +1,20 @@
+
+
+
+hidden_dim : 256
+hidden_layers : 3
+
+
+num_frames : 576
+
+memory_size : 10000
+batch_size : 512
+gamma : 0.9
+tau : 0.8
+epoch : 1
+epsilon : 0.2
+entropy_weight : 0.005
+
+
+
+
